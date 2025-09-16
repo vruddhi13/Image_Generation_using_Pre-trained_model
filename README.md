@@ -40,4 +40,4 @@ accelerate helps reduce memory usage when loading models.
 
 🌐 References
 [Hugging Face Diffusers](https://huggingface.co/docs/diffusers/index)
-[CompVis Stable Diffusion v1-4](https://huggingface.co/CompVis/stable-diffusion-v1-4)
+[CompVis Stable Diffusion v1-4](https://huggingface.co/CompVis/stable-diffusion-v1-4).
